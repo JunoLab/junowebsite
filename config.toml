@@ -1,0 +1,7 @@
+baseURL = "https://pfitzseb.github.io/"
+languageCode = "en-us"
+title = "Juno"
+theme = "landing-page"
+
+[params]
+    description = "A flexible IDE for the 21st century"

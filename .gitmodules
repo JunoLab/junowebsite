@@ -1,0 +1,22 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/pfitzseb/pfitzseb.github.io.git
+	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curttimson/hugo-theme-massively.git
+[submodule "themes/air"]
+	path = themes/air
+	url = https://github.com/syui/hugo-theme-air.git
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = https://github.com/karju-dev/airspace-hugo.git
+[submodule "themes/hugo-elate"]
+	path = themes/hugo-elate
+	url = https://github.com/saey55/hugo-elate-theme.git
+[submodule "themes/landing-page"]
+	path = themes/landing-page
+	url = https://github.com/crakjie/landing-page-hugo.git
