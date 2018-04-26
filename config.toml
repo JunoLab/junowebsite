@@ -1,4 +1,4 @@
-baseURL = "https://pfitzseb.github.io/"
+baseURL = "http://junolab.org/"
 languageCode = "en-us"
 title = "Juno"
 theme = "landing-page"
