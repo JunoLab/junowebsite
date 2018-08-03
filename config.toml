@@ -1,7 +1,7 @@
 baseURL = "http://junolab.org/"
 languageCode = "en-us"
 title = "Juno"
-theme = "landing-page"
+theme = "juno-hugo-one-dark"
 
 [params]
     description = "A flexible IDE for the 21st century"
