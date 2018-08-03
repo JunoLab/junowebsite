@@ -20,3 +20,6 @@
 [submodule "themes/landing-page"]
 	path = themes/landing-page
 	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "themes/juno-hugo-one-dark"]
+	path = themes/juno-hugo-one-dark
+	url = https://github.com/pfitzseb/juno-hugo-one-dark.git
