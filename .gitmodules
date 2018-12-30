@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/pfitzseb/pfitzseb.github.io.git
+	url = git@github.com:JunoLab/junolab.github.io.git
 	branch = master
 [submodule "themes/ananke"]
 	path = themes/ananke
