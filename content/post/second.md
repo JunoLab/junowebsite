@@ -2,7 +2,7 @@
 date = "2015-07-18T14:08:29+02:00"
 draft = false
 title = "Useable real-time feedback."
-img = "error.png"
+img = "screenshot_error.png"
 weight = 2
 +++
 

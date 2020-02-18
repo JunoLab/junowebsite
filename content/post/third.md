@@ -2,7 +2,7 @@
 date = "2015-07-18T14:08:29+02:00"
 draft = false
 title = "Great for power users, too."
-img = "editor.png"
+img = "screenshot_power.png"
 weight = 3
 +++
 

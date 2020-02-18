@@ -2,7 +2,7 @@
 date = "2015-07-18T14:08:29+02:00"
 draft = false
 title = "Walks like Python. Runs like C."
-img = "mandel.png"
+img = "screenshot_autocomplete.png"
 weight = 1
 +++
 
